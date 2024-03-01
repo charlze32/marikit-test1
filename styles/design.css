@@ -1,11 +1,6 @@
-html {
-  min-height: 100%;
-}
-
 body {
   background: linear-gradient(90deg, rgba(21,90,193,1) 35%, rgba(151,230,255,1) 100%);
   margin: 0px;
-  min-height: 100%;
 }
 
 main {
@@ -27,7 +22,7 @@ main {
   justify-content: center;
   list-style-type: none;
   background-color: #0B1623;
-  padding: 10px;
+  padding: 2px;
   margin: none;
   overflow: hidden;
 }
@@ -57,8 +52,8 @@ main {
 }
 
 li a img {
-  width: 40px;
-  height: 40px;
+  width: 27px;
+  height: 25px;
 }
 
 .search-container {
